@@ -4,7 +4,7 @@
 
 namespace RE
 {
-#if 0
+#ifdef SKYRIMVR
 	class LoggingDisabler : public GFxLog
 	{
 	public:

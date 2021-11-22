@@ -120,7 +120,9 @@ namespace RE
 	public:
 		static ScriptEventSourceHolder* GetSingleton();
 
-		//void SendActivateEvent(const NiPointer<TESObjectREFR>& a_objectActivated, const NiPointer<TESObjectREFR>& a_actionRef);
+#ifdef SKYRIMVR
+		void SendActivateEvent(const NiPointer<TESObjectREFR>& a_objectActivated, const NiPointer<TESObjectREFR>& a_actionRef);
+#endif
 		void SendOpenCloseEvent(const NiPointer<TESObjectREFR>& a_ref, const NiPointer<TESObjectREFR>& a_activeRef, bool a_isOpened);
 
 		template <class T>

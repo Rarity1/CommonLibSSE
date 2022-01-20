@@ -690,9 +690,18 @@ set(SOURCES
 	include/RE/H/hkSweptTransform.h
 	include/RE/H/hkTransform.h
 	include/RE/H/hkVector4.h
+	include/RE/H/hkaAnimatedReferenceFrame.h
+	include/RE/H/hkaAnimation.h
+	include/RE/H/hkaAnimationBinding.h
+	include/RE/H/hkaAnimationControl.h
+	include/RE/H/hkaAnnotationTrack.h
+	include/RE/H/hkaDefaultAnimationControl.h
+	include/RE/H/hkaSplineCompressedAnimation.h
 	include/RE/H/hkbBehaviorGraph.h
 	include/RE/H/hkbBindable.h
 	include/RE/H/hkbCharacter.h
+	include/RE/H/hkbClipGenerator.h
+	include/RE/H/hkbContext.h
 	include/RE/H/hkbEvent.h
 	include/RE/H/hkbEventBase.h
 	include/RE/H/hkbGenerator.h

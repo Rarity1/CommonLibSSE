@@ -1,2 +1,12 @@
 /build*
 CMakeUserPresets.json
+.vs/VSWorkspaceState.json
+.vs/slnx.sqlite
+.vs/ProjectSettings.json
+.vs/CommonLibSSE/v17/workspaceFileList.bin
+.vs/CommonLibSSE/v17/ipch/fbe8ad2ef06be9c7.ipch
+.vs/CommonLibSSE/v17/Browse.VC.db
+.vs/CommonLibSSE/v17/.suo
+.vs/CommonLibSSE/project-colors.json
+.vs/cmake.db
+.vs/CMake Overview

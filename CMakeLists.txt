@@ -6,6 +6,7 @@ project(
 	CommonLibSSE
 	LANGUAGES CXX
 )
+add_compile_definitions(SKYRIMVR)
 
 include(GNUInstallDirs)
 

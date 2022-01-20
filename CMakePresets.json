@@ -56,7 +56,7 @@
     },
     {
       "cacheVariables": {
-        "CMAKE_CXX_FLAGS": "/EHsc /MP /W4 /WX $penv{CXXFLAGS}"
+        "CMAKE_CXX_FLAGS": "/EHsc /MP /W1 /WX $penv{CXXFLAGS}"
       },
       "generator": "Visual Studio 17 2022",
       "inherits": [
